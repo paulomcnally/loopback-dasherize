@@ -14,7 +14,7 @@ This is the solution to my question on the google group for loopbackjs
 
 ### Usage
 
-    var Dasherize = require('../lib/loopback-dasherize');
+    var Dasherize = require('loopback-dasherize');
     var dasherize = new Dasherize();
 
     console.log(dasherize.convert('CamelCase'));
