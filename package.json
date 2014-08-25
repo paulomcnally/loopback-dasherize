@@ -1,0 +1,25 @@
+{
+  "name": "loopback-dasherize",
+  "description": "Dasherize models to load middleware files",
+  "version": "0.0.1",
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "keywords": [
+    "loopback",
+    "dasherize",
+    "middleware",
+    "files",
+    "model"
+  ],
+  "directories": {
+    "lib": "./lib/loopback-dasherize"
+  },
+  "main": "./index.js",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/loopback-dasherize/issues/new",
+    "email": "paulomcnally@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulomcnally/loopback-dasherize.git"
+  }
+}
